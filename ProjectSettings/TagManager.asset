@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ball destroyer
+  - ball
+  - Triangle
+  - Destroy It
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Frame
+    uniqueID: 2030523819
+    locked: 0
+  - name: background
+    uniqueID: 4219852577
+    locked: 0
+  - name: Game Objects
+    uniqueID: 3189437863
+    locked: 0
+  - name: forground
+    uniqueID: 3554898485
+    locked: 0
+  - name: button
+    uniqueID: 3521792555
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

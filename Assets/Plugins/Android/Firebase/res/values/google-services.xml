@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://block-the-balls.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">798816277232</string>
+  <string name="google_storage_bucket" translatable="false">block-the-balls.appspot.com</string>
+  <string name="project_id" translatable="false">block-the-balls</string>
+  <string name="google_api_key" translatable="false">AIzaSyCruKXz5ak3tGqXshB8H7Z3Sa-HRHfSyXs</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCruKXz5ak3tGqXshB8H7Z3Sa-HRHfSyXs</string>
+  <string name="google_app_id" translatable="false">1:798816277232:android:fd00d7d256a32118</string>
+  <string name="default_web_client_id" translatable="false">798816277232-ktkkijs9ukllngkj18re5rk8debpmdcv.apps.googleusercontent.com</string>
+</resources>
