@@ -1847,11 +1847,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 479aab087050245418a1d664d085b949, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fbLoginButton: {fileID: 213312389}
-  fbPanel: {fileID: 0}
-  upButton: {fileID: 1238491708}
-  downButton: {fileID: 0}
-  nameText: {fileID: 0}
 --- !u!4 &918980418
 Transform:
   m_ObjectHideFlags: 0
